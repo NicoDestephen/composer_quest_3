@@ -1,0 +1,12 @@
+composer.phar
+.DS_Store
+.idea
+shell.nix
+nbproject
+vendor
+clover.xml
+.phpunit.result.cache
+.phpunit.cache
+coverage
+.vscode
+*.bak
